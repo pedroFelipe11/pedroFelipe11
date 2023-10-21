@@ -1,6 +1,6 @@
 
 <h3>💜 Olá</h3>
-
+<hr>
 <img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO FELIPE&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 -> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -12,11 +12,18 @@
 
 <h3>🚀 Minhas Skills</h3>
 
-[![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-[![javascript](https://img.shields.io/badge/-Javascript-ffd903?logo=javascript&logoColor=white&style=for-the-badge)](https://www.ecma-international.org/)
-[![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
+#### Languages
 
-<hr>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+#### Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
 <h3>Meus status</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroFelipe11&theme=dracula&show_icons=true" />
 
@@ -42,3 +49,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+<hr>
