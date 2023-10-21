@@ -1,5 +1,6 @@
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=993399&vCenter=true&width=435&lines=Hi!;+welcome!!;Studing+for+become+a+Full+Stack+Developer..."/>
 <hr>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=993399&vCenter=true&width=435&lines=Hi!;+welcome!!;Studing+for+become+a+Full+Stack+Developer..."/>
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO FELIPE&color=f8efd4&style=for-the-badge&logo=GitHub">
 
