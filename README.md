@@ -1,10 +1,10 @@
-
-<h3>💜 Olá</h3>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=993399&vCenter=true&width=435&lines=Hi!;+welcome!!;Studing+for+become+a+Full+Stack+Developer..."/>
 <hr>
 
- <h3⚡Sobre mim ></h3>
 <img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO FELIPE&color=f8efd4&style=for-the-badge&logo=GitHub">
 
+ <h3>⚡Sobre mim </h3>
+ 
 -> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
@@ -12,7 +12,7 @@
 
 -> 🤓 Estudando na **Escola Tècnica CEEPTIC** , em Lauro de Freitas <a href="https://www.instagram.com/ceepticlaurodefreitas/">ESCOLA</a>
 
-<h3>🚀 My Skills</h3>
+<h3>🚀 Skills</h3>
 
 #### Languages
 
@@ -26,10 +26,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<h3>My status 🫡</h3>
+<h3>🎯 status </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroFelipe11&theme=dracula&show_icons=true" />
 
-<h3> My Contacts 🔍</h3>
+<h3>🔍 Contacts </h3>
 
 <p align="left">
   <a href="#" alt="Gmail">
