@@ -6,7 +6,7 @@
 -> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
--> 🎓 Estudando **Progamaçao fullstack** na <a href="https://infinityschool.com.br/">INFINIT SCHOOL</a>.
+-> 🎓 Cursando **Progamaçao fullstack** na <a href="https://infinityschool.com.br/">INFINIT SCHOOL</a>.
 
 -> 🤓 Estudando na **Escola Tècnica CEEPTIC** , em Lauro de Freitas <a href="https://www.instagram.com/ceepticlaurodefreitas/">ESCOLA</a>
 
