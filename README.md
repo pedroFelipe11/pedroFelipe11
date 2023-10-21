@@ -45,7 +45,7 @@
   <a href="#" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=Discord&logoColor=white&link=ppeuzin"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA=="/></a>
 </p>
 
