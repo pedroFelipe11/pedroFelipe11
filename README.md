@@ -1,6 +1,7 @@
 
 <h3>💜 Olá</h3>
 <hr>
+## ⚡Sobre mim
 <img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO FELIPE&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 -> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
