@@ -33,7 +33,7 @@
 <h3>🔍 Contacts </h3>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="ppedrofelipe08@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ppedrofelipe08@gmail.com" /></a>
 
   <a href="#" alt="LinkedIn">
@@ -42,10 +42,10 @@
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+55719970076"/></a>
 
-  <a href="#" alt="Discord">
+  <a href="ppeuzin" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=Discord&logoColor=white&link=ppeuzin"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA=="/></a>
 </p>
 
