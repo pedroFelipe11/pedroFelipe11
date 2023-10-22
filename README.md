@@ -39,11 +39,11 @@
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/+55719970076" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+55719970076"/></a>
 
-  <a href="ppeuzin" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=Discord&logoColor=white&link=ppeuzin"/></a>
+  <a href="#" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=Discord&logoColor=white&link="/></a>
 
   <a href="https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA=="/></a>
