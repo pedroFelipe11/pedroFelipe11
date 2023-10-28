@@ -27,8 +27,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<h3>🎯 Status </h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroFelipe11&theme=dracula&show_icons=true" />
+
 
 <h3>🔍 Contacts </h3>
 
