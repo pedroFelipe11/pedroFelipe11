@@ -1,8 +1,9 @@
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=993399&vCenter=true&width=435&lines=Hi,+welcome!!;Studing+for+become+a+Full+Stack+Developer..."/>
+## 💜 Olá, meu nome é <strong>{Pedro felipe}!</strong>
+<h3>🧐 About Me</h3>
+-🎓 Estudando progamação Full stack na <a href="https://infinityschool.com.br/?gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEpJfLa29LdIfar1yMWU7SaZ3nqA4AW0lPsjrndBZy-FQjPNViOLx4RoCqJAQAvD_BwE">Infinity School</a>
 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO FELIPE&color=f8efd4&style=for-the-badge&logo=GitHub">
-
+-📕 Estudando na escola técnica  <a href="https://www.instagram.com/ceepticlaurodefreitas/">CEEPTIC</a>
 
 <h3>🚀 Skills</h3>
 
