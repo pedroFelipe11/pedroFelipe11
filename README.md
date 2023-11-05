@@ -3,15 +3,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO FELIPE&color=f8efd4&style=for-the-badge&logo=GitHub">
 
- <h3>⚡About im </h3>
-
- 
--> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-
-
--> 🎓 Cursando **Progamaçao full stack** na <a href="https://infinityschool.com.br/">INFINIT SCHOOL</a>.
-
--> 🤓 Estudando na **Escola Tècnica CEEPTIC** , em Lauro de Freitas <a href="https://www.instagram.com/ceepticlaurodefreitas/">ESCOLA</a>
 
 <h3>🚀 Skills</h3>
 
@@ -41,7 +32,7 @@
   <a href="https://wa.me/+55719970076" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+55719970076"/></a>
 
-  <a href="#" alt="Discord">
+  <a href="946197351628931163" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=Discord&logoColor=white&link="/></a>
 
   <a href="https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA" alt="Instagram">
