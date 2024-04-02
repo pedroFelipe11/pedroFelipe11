@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Pedro felipe}!</strong>
 <h3>🧐 About Me</h3>
--🎓 Estudando progamação Full stack na <a href="https://infinityschool.com.br/?gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEpJfLa29LdIfar1yMWU7SaZ3nqA4AW0lPsjrndBZy-FQjPNViOLx4RoCqJAQAvD_BwE">Infinity School</a>
+-🎓 Curso de  progamação Full stack concluído  na <a href="https://infinityschool.com.br/?gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEpJfLa29LdIfar1yMWU7SaZ3nqA4AW0lPsjrndBZy-FQjPNViOLx4RoCqJAQAvD_BwE">Infinity School</a>
 
 
 -📕 Estudando na escola técnica  <a href="https://www.instagram.com/ceepticlaurodefreitas/">CEEPTIC</a>
