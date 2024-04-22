@@ -32,7 +32,7 @@
 <p align="left">
  
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/pedro-felipe-ferreira-da-silva-8245842a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/+55719970076" alt="WhatsApp">
@@ -40,7 +40,7 @@
 
  
 
-  <a href="https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA" alt="Instagram">
+  <a href="https://www.instagram.com/pedro.zip7?igsh=MzRlODBiNWFlZA==" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA=="/></a>
 </p>
 
