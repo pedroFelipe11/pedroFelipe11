@@ -44,5 +44,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pedrof.exe?igshid=MzRlODBiNWFlZA=="/></a>
 </p>
 
-
+[![pedrofelipe](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofelipe&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
